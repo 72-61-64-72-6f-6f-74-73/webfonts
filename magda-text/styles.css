@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Magda Text';
+    src: url('/webfonts/magda-text/Magda-Text.woff2') format('woff2'),
+        url('/webfonts/magda-text/Magda-Text.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
