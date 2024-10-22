@@ -26,7 +26,7 @@
 }
 
 @font-face {
-    font-family: 'Circular Book';
+    font-family: 'Circular';
     src: url('/webfonts/circular/Circular-Book.woff2') format('woff2'),
         url('/webfonts/circular/Circular-Book.woff') format('woff');
     font-weight: normal;
@@ -35,7 +35,7 @@
 }
 
 @font-face {
-    font-family: 'Circular Book';
+    font-family: 'Circular';
     src: url('/webfonts/circular/Circular-BookItalic.woff2') format('woff2'),
         url('/webfonts/circular/Circular-BookItalic.woff') format('woff');
     font-weight: normal;
